@@ -1,3 +1,3 @@
 # Ticketing Application
 
-A ticketing purchase/edit application
+Ticketing purchase/edit application
